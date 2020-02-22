@@ -1,4 +1,7 @@
 # code your #position_taken? method here!
+
+#issues with opening and submitting
+
 def position_taken?(board, index)
   if board[index] == " "
     return false
